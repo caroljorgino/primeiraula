@@ -8,7 +8,7 @@ $message = "Olá, bem-vindo ao meu site em PHP!";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo PHP com Telinha</title>
+    <title>Exemplo  com Telinha</title>
     <style>
         body {
             font-family: Arial, sans-serif;
